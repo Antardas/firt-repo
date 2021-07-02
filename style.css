@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+.card {
+    background-color: aqua;
+    width: 50%;
+    margin: 0 auto;
+}
+.card .employee-name {
+    color: rgb(221, 23, 23);
+}
+.card .position {
+    color: cornsilk;
+}
+.card .employee-image {
+    display: block;
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+
+}
