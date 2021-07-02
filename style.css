@@ -6,8 +6,10 @@
 .card {
     background-color: aqua;
     width: 50%;
+    height: 500px;
     margin: 0 auto;
     background: linear-gradient(-20deg,#FBD3E9, #BB377D);
+    text-align: center;
 }
 .card .employee-name {
     color: #ffffff;
@@ -23,5 +25,6 @@
     width: 200px;
     height: 200px;
     margin: 0 auto;
+    margin-top: 50px;
 
 }
