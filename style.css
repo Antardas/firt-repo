@@ -10,11 +10,13 @@
     background: linear-gradient(-20deg,#FBD3E9, #BB377D);
 }
 .card .employee-name {
-    color: rgb(158, 23, 221);
+    color: #ffffff;
+    font-size: 30px;
 
 }
 .card .position {
-    color: cornsilk;
+    color: #ffffff;
+    text-decoration: underline;
 }
 .card .employee-image {
     display: block;
