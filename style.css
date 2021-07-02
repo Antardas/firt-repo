@@ -7,17 +7,19 @@
     background-color: aqua;
     width: 50%;
     margin: 0 auto;
+    background: linear-gradient(-20deg,#FBD3E9, #BB377D);
 }
 .card .employee-name {
-    color: rgb(221, 23, 23);
+    color: rgb(158, 23, 221);
+
 }
 .card .position {
     color: cornsilk;
 }
 .card .employee-image {
     display: block;
-    border-radius: 50%;
     width: 200px;
     height: 200px;
+    margin: 0 auto;
 
 }
